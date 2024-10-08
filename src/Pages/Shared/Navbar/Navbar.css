@@ -1,0 +1,7 @@
+.btnLogin{
+    transition: transform 0.15s ease-in-out ;
+}
+
+.btnLogin:active{
+    transform: scale(0.95);
+}
